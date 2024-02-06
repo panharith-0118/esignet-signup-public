@@ -118,7 +118,7 @@
     "already-registered": "បានចុះឈ្មោះរួចហើយ",
     "timed_out": "អស់ម៉ោង",
     "timeout_transaction": "ប្រតិបត្តិការផុតកំណត់",
-    "request_limit": "ចំនួនសំណើដល់កំណត់",
+    "request_limit": "មានអ្វីមួយមិនប្រក្រតី។ សូមព្យាយាមម្តងទៀត។",
     "not_registered": "មិនបានចុះឈ្មោះ",
     "reset_pwd_failed": "ការកំណត់ពាក្យសម្ងាត់ឡើងវិញបានបរាជ័យ",
     "identifier_already_registered": "អត្តសញ្ញាណបានចុះឈ្មោះរួចហើយ",
