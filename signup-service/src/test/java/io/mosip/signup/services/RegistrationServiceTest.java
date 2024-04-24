@@ -40,7 +40,7 @@ import static org.mockito.Mockito.*;
 
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.when;
-import javax.servlet.http.HttpServletResponse;
+import javax.servelet.http.HttpServletResponse;
 
 import io.mosip.esignet.core.exception.EsignetException;
 
